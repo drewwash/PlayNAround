@@ -1,0 +1,23 @@
+.HeaderTitle{
+	font-size:20pt;
+}
+.Selected{
+	font-weight:bold;
+	border-top:solid 1px black;
+	border-left:solid 1px black;
+	border-right:solid 1px black;
+	padding:3px;
+	background-color:white;
+}
+.Unselected{
+	padding:3px;
+	border-top:solid 1px #E5E5E5;
+	border-left:solid 1px #E5E5E5;
+	border-right:solid 1px #E5E5E5;
+	font-weight:bold;
+}
+.Nav_Brk{
+background-image:url(/images/nav_back.gif);
+background-repeat:repeat-y;
+background-position:center; 
+}

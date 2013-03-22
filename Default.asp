@@ -8,7 +8,7 @@
     <% 
     
     strStuff = "This is just some code for the heck of it."
-
+    strStuff = strStuff & "<br />You call this a website? its not even .net."
     Response.Write strStuff
     
     %>
